@@ -2,7 +2,7 @@
 
 **`Software Developer (Python)`**
 
-I'm a final year Computer Science with Economics student. Currently working in Bosch subsidiary - BSH as a Software Automation Tester. Actively studying in a fields that helps me understand how to solve economc problems. I belive that IT tools are the future of managing all of the modern issues. I have faith this path of education, diligence and engagement will allow me to achive my long-term goal wich is programmer's carrier. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Visit my "[LinkedIn](https://www.linkedin.com/in/konradcialkowski)" for more information or to know me better 🤘
+I'm a final year Computer Science with Economics student. Currently working in Bosch subsidiary - BSH as a Software Developer in test. Actively studying in a fields that helps me understand how to solve economc problems. I belive that IT tools are the future of managing all of the modern issues. I have faith this path of education, diligence and engagement will allow me to achive my long-term goal wich is programmer's carrier. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Visit my "[LinkedIn](https://www.linkedin.com/in/konradcialkowski)" for more information or to know me better 🤘
 
 ---
 
